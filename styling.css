@@ -1,8 +1,8 @@
-body {
+body !important {
     background-color:#29524A ; 
 }
 
-header {
+header !important {
     background-color:#94A187 ;
 }
 
