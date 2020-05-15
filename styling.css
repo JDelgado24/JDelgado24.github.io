@@ -20,3 +20,7 @@ header  {
     padding-top: 0px; 
     width:640px;
 }
+
+footer{
+    position:absolute;
+}
